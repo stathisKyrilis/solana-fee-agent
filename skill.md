@@ -1,3 +1,10 @@
+---
+name: "solana-fee-calculator"
+description: "Calculates real-time transaction costs and priority fee estimates on the Solana blockchain."
+version: "1.0.0"
+author: "Stathis"
+---
+
 # Solana Fee & Gas Estimation Agent
 
 ## Description
